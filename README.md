@@ -2,10 +2,13 @@
 
 I am currently a single developer working on games for a great time!
 
-## Todo list:
+### Todo list:
 - Finish the website
 - Make a small platformer
 - Hire on (a) new member(s)
 - Some other stuff, I don't know
 
-If you have any questions, email __**veritygames@yahoo.com**__!
+### Past works
+Currently, there are currently no games that we have made as of right now, but there are big things coming up!
+
+If you have any questions, email _veritygames@yahoo.com_!
