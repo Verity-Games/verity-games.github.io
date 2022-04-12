@@ -1,7 +1,7 @@
 ---
 title: About Us
-About
 ---
+
 I am currently a single developer working on games for a great time!
 
 ### Todo list:
