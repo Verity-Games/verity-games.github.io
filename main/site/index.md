@@ -1,5 +1,6 @@
 ---
 title: About Us
+permalink: /about.html
 ---
 
 I am currently a single developer working on games for a great time!
