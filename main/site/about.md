@@ -3,12 +3,12 @@ title: About Us
 permalink: /about.html
 ---
 
-I am currently a single developer working on games for a great time!
+We are a team of two looking to make cool games!
 
 ### Todo list:
 - [ ] Finish the website
-- [ ] Make a small platformer
-- [ ] Hire on (a) new member(s)
+- [ ] Make a small <s>platformer</s> game
+- [x] Hire on (a) new member(s)
 - [ ] Some other stuff, I don't know
 
 ### Past works
