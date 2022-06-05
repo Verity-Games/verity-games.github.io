@@ -1,3 +1,8 @@
+---
+title: Members
+permalink: /members.html
+---
+
 # GodsRightHand
 #### When I asked what they wanted their bio to be, they said:
 ##### _"Mysterious Individual"_
