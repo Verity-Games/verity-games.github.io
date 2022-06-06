@@ -17,6 +17,9 @@ Currently, there are currently no games that we have made as of right now, but t
 ### Current Goals
 At the moment? Make fun games that have some sembelance of a meaning. The next big game that we have planned is going to be called 'Love and Anxiety'. Is there a current story? Uhm... no. But we're figuring it out, I swear!
 
+### Members
+Want to learn about the crew? Check out our [members page](/members.md)!
+
 ### Contact
 If you have any questions, email _veritygames@yahoo.com_!
 
